@@ -1,0 +1,23 @@
+*************************************************************************
+help program :
+
+         command 0 -------------> exit of program.
+         
+         command 1 -------------> creat new account. 
+         
+         command 3 -------------> show help.
+
+         command 4 -------------> remove account .
+
+         command 5 -------------> add list drugs .
+
+         command 6 -------------> change list drugs(remove or add) .
+
+         command 7 -------------> search with name(drug) or code(drug) .
+
+         command 8 -------------> show drugs' sort list_name.
+
+         command 9 -------------> change drug's (name,price,number_drug).
+
+*************************************************************************
+$
